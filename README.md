@@ -20,3 +20,5 @@ optional arguments:
                         (advanced) Adjusts packet buffer sizes for export
                         files. Generally should be left alone.
 ```
+## Installation
+Run ```pip install streamsplit``` to install.
