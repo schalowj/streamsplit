@@ -1,0 +1,8 @@
+README.md
+setup.py
+streamsplit/__init__.py
+streamsplit/streamsplit.py
+streamsplit.egg-info/PKG-INFO
+streamsplit.egg-info/SOURCES.txt
+streamsplit.egg-info/dependency_links.txt
+streamsplit.egg-info/top_level.txt
