@@ -21,4 +21,18 @@ optional arguments:
                         files. Generally should be left alone.
 ```
 ## Installation
+
+### Install the cross-platform python version
+
 Run ```pip install streamsplit``` to install.
+
+_*OR*_
+
+### Install the native linux executable
+
+Download: https://github.com/schalowj/streamsplit/raw/master/executable/streamsplit.run
+
+Run as a shell script (e.g. bash streamsplit.run)
+The application will be extracted to /opt/streamsplit with a link in /usr/bin
+
+It can then be run as a normal command: ```$ streamsplit ..... ```
