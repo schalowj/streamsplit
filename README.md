@@ -1,7 +1,7 @@
 # streamsplit
 A utility to extract TCP streams from (large) pcap files
 ```
-usage: streamsplit.py [-h] [-F FILTER] [-f] [-l] [-t] [-b BUFFER] filename
+usage: python -m streamsplit [-h] [-F FILTER] [-f] [-l] [-t] [-b BUFFER] filename
 
 positional arguments:
   filename              PCAP file to be analyzed
