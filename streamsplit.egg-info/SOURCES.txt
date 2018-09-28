@@ -1,6 +1,7 @@
 README.md
 setup.py
 streamsplit/__init__.py
+streamsplit/__main__.py
 streamsplit/streamsplit.py
 streamsplit.egg-info/PKG-INFO
 streamsplit.egg-info/SOURCES.txt

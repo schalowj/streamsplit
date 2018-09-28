@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: streamsplit
-Version: 0.1.0
+Version: 0.1.1
 Summary: A utility to extract TCP streams from (large) pcap files
 Home-page: https://github.com/schalowj/streamsplit
 Author: J.A. Schalow

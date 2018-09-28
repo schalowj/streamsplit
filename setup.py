@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="streamsplit",
-    version="0.1.0",
+    version="0.1.1",
     author="J.A. Schalow",
     author_email="schalowj@gmail.com",
     description="A utility to extract TCP streams from (large) pcap files",
